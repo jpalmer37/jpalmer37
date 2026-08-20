@@ -45,9 +45,6 @@ work point to the maintained upstream repository.
 
 - [`pyslurm`](https://github.com/jpalmer37/pyslurm) — a typed Python interface
   for submitting and monitoring SLURM job arrays through Meta's `submitit`.
-- [`price_tracker`](https://github.com/jpalmer37/price_tracker) — a Dockerized
-  Python application for scheduled browser-based price collection, historical
-  analysis, and alerts.
 - [`agent-skills`](https://github.com/jpalmer37/agent-skills) — reusable agent
   skills for Nextflow, Python data work, visualization, and dashboards.
 
